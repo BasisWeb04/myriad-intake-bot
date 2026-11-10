@@ -1,0 +1,62 @@
+[
+  {
+    "id": "REQ-001",
+    "requester": "Maya Chen",
+    "request": "I am locked out and need a password reset before my client call today."
+  },
+  {
+    "id": "REQ-002",
+    "requester": "Andre Silva",
+    "request": "Our new analyst starts Monday and needs a new laptop."
+  },
+  {
+    "id": "REQ-003",
+    "requester": "Priya Shah",
+    "request": "The VPN is down for our whole Phoenix office."
+  },
+  {
+    "id": "REQ-004",
+    "requester": "Noah Williams",
+    "request": "Please assign me a Figma software license."
+  },
+  {
+    "id": "REQ-005",
+    "requester": "Elena Garcia",
+    "request": "I need mailbox access for the regional support inbox."
+  },
+  {
+    "id": "REQ-006",
+    "requester": "Marcus Lee",
+    "request": "The third-floor printer is down."
+  },
+  {
+    "id": "REQ-007",
+    "requester": "Zoe Martin",
+    "request": "My MFA code is not arriving and I cannot work."
+  },
+  {
+    "id": "REQ-008",
+    "requester": "Caleb Brown",
+    "request": "My laptop battery is swelling and needs replacement."
+  },
+  {
+    "id": "REQ-009",
+    "requester": "Aisha Patel",
+    "request": "The Salesforce integration stopped updating customer records."
+  },
+  {
+    "id": "REQ-010",
+    "requester": "Ben Foster",
+    "request": "I would like to automate invoice copies into our archive next month."
+  },
+  {
+    "id": "REQ-011",
+    "requester": "Lily Nguyen",
+    "request": "I clicked a suspicious link in a phishing email."
+  },
+  {
+    "id": "REQ-012",
+    "requester": "Owen Reed",
+    "request": "Something is weird. Can someone look at it?"
+  }
+]
