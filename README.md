@@ -2,7 +2,7 @@
 
 This Python 3.11+ command-line sample turns plain-English internal IT and operations requests into routed tickets. It stores accepted tickets in SQLite, writes one webhook-style JSON file per ticket, sends uncertain requests to a human review queue, and records an audit event for every decision. It uses only the Python standard library.
 
-A two-minute screen recording of the tool running is in [demo/demo.mp4](demo/demo.mp4).
+A two-minute screen recording of the tool running: [watch it here](https://basisweb04.github.io/myriad-intake-bot/demo/demo.mp4). The file is demo/demo.mp4.
 
 The classify step is a local, rule-based stand-in, not a real AI model; it keeps the sample runnable without an API key. A production model provider would implement `Classifier` in `intake_bot/provider.py` and be passed to `IntakeService` without changing the routing or review controls.
 
